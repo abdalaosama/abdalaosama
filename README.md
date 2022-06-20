@@ -4,8 +4,10 @@
 Highly skilled Full-stack developer with as much arrogance as knowledge ;) <br>I am always eager to learn and to widen my arsenal of skill.
 
 "Experince is the name people give to their mistakes"<br> - Oscar wilde
-Well I have done a lot of mistakes, please get me right
+Well I have done a lot of mistakes, please get me right<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdalaosama&show_icons=true&theme=radical)
+
 
 <hr>
 # Contact Me
