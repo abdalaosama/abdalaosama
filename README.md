@@ -10,7 +10,9 @@ I have done a lot of mistakes, please get me right<br>
 
 
 <hr>
-## Contact Me
+
+## Contact me
+<hr>
 
 [Twitter](https://twitter.com/Abdallah__Osama) - 
 [Linkedin](https://www.linkedin.com/in/abdullah-osamah/) - 
