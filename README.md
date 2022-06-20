@@ -8,9 +8,6 @@ I have done a lot of mistakes, please get me right<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdalaosama&show_icons=true&theme=radical)
 
-
-<hr>
-
 ## Contact me
 
 [Twitter](https://twitter.com/Abdallah__Osama) - 
