@@ -10,7 +10,7 @@ Highly skilled Fullstack developer with as much arrogance as knowledge ;) <br>I 
 "Experience is the name people give to their mistakes"<br>                                                    - Oscar wilde<br>
 <hr>
 Avatar Designed By:
-My artist friend, Ezz el-din Atef 
+<br>Ezz el-din Atef 
 <br>
 
 ## Contact me
