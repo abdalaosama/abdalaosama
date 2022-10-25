@@ -8,8 +8,9 @@
 Highly skilled Fullstack developer with as much arrogance as knowledge ;) <br>I am always eager to learn and to widen my arsenal of skills.
 
 "Experience is the name people give to their mistakes"<br>                                                    - Oscar wilde<br>
+<hr>
+Avatar Designed By: Ezz el-din Atef 
 <br>
-
 ## Contact me
 
 [Twitter](https://twitter.com/Abdallah__Osama) - 
